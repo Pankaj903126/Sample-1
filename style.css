@@ -1,0 +1,25 @@
+body{
+    background-color: #ffe795;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+}
+table,th,td {
+    border:2px solid blue;
+}
+th{
+    background-color: #6afff5;
+}
+td{
+    background-color: #aafff4;
+}
+#file{
+    background-color: #d9ff95;
+    border-radius: 40px;
+    }
+#navbar{
+    font-size: 20px;
+    
+}
